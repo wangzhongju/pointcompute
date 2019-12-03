@@ -1,0 +1,12 @@
+%YAML:1.0
+---
+X: !!opencv-matrix
+  rows: 1
+  cols: 2
+  dt: d
+  data: [0.120019, 0]
+K: !!opencv-matrix
+  rows: 3
+  cols: 3
+  dt: d
+  data: [332.181, 0.0, 320.169, 0.0, 332.181, 190.405, 0.0, 0.0, 1.0]
